@@ -1,4 +1,4 @@
-# OpenCV-coloured-To-Black-White
+# OpenCV-Coloured-To-Black-White
 In this Artificial Intelligence project, any video is taken as 
 input from user and it is converted from coloured to black and 
 white using python code with the help of OpenCV Library 
